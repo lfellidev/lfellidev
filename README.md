@@ -71,7 +71,7 @@ https://lfelli.com
 <hr/>
 <br />
 
-### Anesthetist Calculator
+### Anesthetist Calculator (mobile app)
   <img src="./images/portfolio/slide02.png" alt="portfólio" /><br />
 <hr/>
 <br />
