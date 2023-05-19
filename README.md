@@ -44,20 +44,26 @@ https://lfelli.com
 
 ## Last jobs
 ### Connect Lingo (mobile app)
-  <img src="./images/portfolio/slide05.png" alt="Connect Lingo" align="center"  />
+  <img src="./images/portfolio/slide05.png" alt="Connect Lingo"   />
     Android - https://play.google.com/store/apps/details?id=app.connectlingo.app<br />
     iOS - https://apps.apple.com/br/app/connect-lingo/id6449234492<br />
   <hr/> 
   <br />
 
 ### Fonogames (website)
-  <img src="./images/portfolio/slide04.png" alt="Fonogames" align="center" />
+  <img src="./images/portfolio/slide04.png" alt="Fonogames"  />
     Web - https://fonogames.com.br
   <hr/>
   <br />
 
+### DN Distribuidora (website)
+  <img src="./images/portfolio/slide06.png" alt="DN Distribuidora" />
+    Web - https://www.dndistribuidora.com.br
+  <hr/>
+  <br />
+
 ### Presente, professora! (mobile app)
-  <img src="./images/portfolio/slide03.png" alt="Presente, professora!" align="center"/>
+  <img src="./images/portfolio/slide03.png" alt="Presente, professora!" />
   Android (premium) - https://play.google.com/store/apps/details?id=com.lfelli.presentepremium<br />
   Android (lite) - https://play.google.com/store/apps/details?id=com.lfelli.presentelite<br />
   iOS (premium) - https://apps.apple.com/br/app/presente-professora/id1665455464<br />   
@@ -66,13 +72,13 @@ https://lfelli.com
 <br />
 
 ### Anesthetist Calculator
-  <img src="./images/portfolio/slide02.png" alt="portfólio" align="center"/><br />
+  <img src="./images/portfolio/slide02.png" alt="portfólio" /><br />
 <hr/>
 <br />
 
 ### Mem Soccer (mobile app)
-  <img src="./images/portfolio/slide01.png" alt="Mem Soccer" align="center"/>
+  <img src="./images/portfolio/slide01.png" alt="Mem Soccer" />
   Android (premium) - https://play.google.com/store/apps/details?id=com.lxfelli.memsoccer<br />
   Android (lite) - https://play.google.com/store/apps/details?id=com.lfelli.fonogames<br />
   iOS (premium) - https://apps.apple.com/br/app/mem-soccer-premium/id1536339482<br />
-  iOS (lite) - https://apps.apple.com/br/app/mem-soccer-lite/id1540502703<br />
+  iOS (lite) - https://apps.apple.com/br/app/mem-soccer-lite/id1540502703<br /> 
