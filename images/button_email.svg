@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="464.69101"
+   height="102.778"
+   viewBox="0 0 122.9495 27.193346"
+   version="1.1"
+   id="svg294"
+   inkscape:export-filename="email-bnt.png"
+   inkscape:export-xdpi="87.918365"
+   inkscape:export-ydpi="87.918365"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="button_email.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview296"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1.6819304"
+     inkscape:cx="248.82123"
+     inkscape:cy="59.158214"
+     inkscape:window-width="1440"
+     inkscape:window-height="832"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="34.973803,8.0874912"
+       orientation="1,0"
+       id="guide3738"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6.2923728,7.3723702"
+       orientation="1,0"
+       id="guide3740"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs291">
+    <rect
+       x="177.5358"
+       y="59.836094"
+       width="352.72879"
+       height="75.994415"
+       id="rect3632" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#384470;fill-opacity:1;stroke-width:0.23912"
+       id="rect467"
+       width="122.94957"
+       height="27.193329"
+       x="-3.6716461e-05"
+       y="8.4718067e-06"
+       ry="0.91358185"
+       rx="2.5645299" />
+    <path
+       d="m 8.5248974,5.1300059 c -1.2285401,0 -2.2252785,0.948091 -2.2252785,2.116666 0,0.665869 0.3291557,1.292049 0.8901114,1.693334 L 17.27767,16.136673 c 0.528505,0.374827 1.251721,0.374827 1.780225,0 L 29.145836,8.9400059 c 0.560957,-0.401285 0.890113,-1.027465 0.890113,-1.693334 0,-1.168575 -0.99674,-2.116666 -2.225281,-2.116666 z M 6.2996189,10.068895 v 9.172222 c 0,1.556632 1.3305311,2.822223 2.9670362,2.822223 H 27.068906 c 1.63651,0 2.967043,-1.265592 2.967043,-2.822223 v -9.172222 l -10.087941,7.196667 c -1.057008,0.754063 -2.503441,0.754063 -3.560451,0 z"
+       id="path1122"
+       style="fill:#ecf0f1;fill-opacity:1;stroke-width:0.0452144" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:'travel elegant';-inkscape-font-specification:'travel elegant';fill:#30336b;fill-opacity:1;stroke-width:0.264999"
+       x="57.72805"
+       y="24.635559"
+       id="text3520"><tspan
+         sodipodi:role="line"
+         id="tspan3518"
+         style="fill:#ffffff;stroke-width:0.265"
+         x="57.72805"
+         y="24.635559" /></text>
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264999"
+       id="path3574"
+       cx="134.11803"
+       cy="-21.116365"
+       rx="0.22246897"
+       ry="1.5544925" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-12.441163,-6.3369101)"
+       id="text3630"
+       style="font-size:32px;font-family:'travel elegant';-inkscape-font-specification:'travel elegant';white-space:pre;shape-inside:url(#rect3632);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.00157"><tspan
+         x="177.53516"
+         y="87.835938"
+         id="tspan8996"><tspan
+           style="font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ecf0f1"
+           id="tspan8994">Send me an email</tspan></tspan></text>
+  </g>
+</svg>
