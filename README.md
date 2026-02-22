@@ -62,11 +62,11 @@ I'm a full-stack app developer with skills in creating apps for **Android**, **i
 
 ### Mobile apps
 
-<img src="./images/portfolio/portfolio-mobile.png" alt="mobileapps" width="600">
+<img src="./images/portfolio-mobile.png" alt="mobileapps" width="600">
 
 [More...](https://primedeploy.com/apps)
 
----
+
 
 ### ​ Websites
 
